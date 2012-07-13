@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<app>
+    <design>
+		<appName><![CDATA[AppBuilder Sample]]></appName>
+		<rgbcolor>#000000</rgbcolor>
+		<backimage>http://ibuildapp.com/assets/templates/642/background.png</backimage>
+		<showLink>1</showLink>
+    </design>
+    <button>
+		<x>35</x>
+		<y>50</y>
+		<width>250</width>
+		<height>50</height>
+		<icon><![CDATA[http://ibuildapp.com/assets/templates/642/buttons/1298035221.png]]></icon>
+		<label><![CDATA[Call]]></label>
+		<title><![CDATA[Call]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#FF3315</color>
+		<style></style>
+		<func>1</func>
+	</button>
+	<button>
+		<x>35</x>
+		<y>110</y>
+		<width>250</width>
+		<height>50</height>
+		<icon><![CDATA[http://ibuildapp.com/assets/templates/642/buttons/1298035407.png]]></icon>
+		<label><![CDATA[Media]]></label>
+		<title><![CDATA[Media]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#003366</color>
+		<style></style>
+		<func>2</func>
+	</button>
+	<button>
+		<x>35</x>
+		<y>170</y>
+		<width>250</width>
+		<height>50</height>
+		<label><![CDATA[About]]></label>
+		<title><![CDATA[About]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#003366</color>
+		<style></style>
+		<func>3</func>
+	</button>
+	<button>
+		<x>35</x>
+		<y>230</y>
+		<width>250</width>
+		<height>50</height>
+		<label><![CDATA[Twitter]]></label>
+		<title><![CDATA[Twitter]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#003366</color>
+		<style></style>
+		<func>4</func>
+	</button>
+	<button>
+		<x>35</x>
+		<y>290</y>
+		<width>250</width>
+		<height>60</height>
+		<label><![CDATA[Map]]></label>
+		<title><![CDATA[Map]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#003366</color>
+		<style></style>
+		<func>5</func>
+	</button>
+	<button>
+		<x>35</x>
+		<y>350</y>
+		<width>250</width>
+		<height>60</height>
+		<label><![CDATA[Email]]></label>
+		<title><![CDATA[Email]]></title>
+		<size>29</size>
+		<align>center</align>
+		<color>#00FF00</color>
+		<style></style>
+		<func>6</func>
+	</button>
+	<widget>
+		<order>1</order>
+		<name>CallPlugin</name>
+		<package>com.appbuilder.plugin.CallPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[<caller><phone>123456789</phone></caller>]]></data>
+	</widget>
+	<widget>
+		<order>2</order>
+		<name>MediaPlugin</name>
+		<package>com.appbuilder.plugin.MediaPlugin</package>   <!-- use plugin file !-->
+		<hash>0001</hash>
+		<url>UNKNOWN</url>
+		<data><![CDATA[RAW TEST DATA]]></data>
+	</widget>
+	<widget>
+		<order>3</order>
+		<name>WebPlugin</name>
+		<package>com.appbuilder.plugin.WebPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[<data><content src="http://ibuildapp.com">DATA</content></data>]]></data>
+	</widget>
+	<widget>
+		<order>4</order>
+		<name>TwitterPlugin</name>
+		<package>com.appbuilder.plugin.TwitterPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+						<data>
+							<user>MedvedevRussia</user>
+							<id>62524392063766528</id>
+							<background>http://imgsrc.hubblesite.org/hu/db/images/hs-2004-27-a-full_jpg.jpg</background>
+						</data>
+				]]> </data>
+	</widget>
+	<widget>
+		<order>5</order>
+		<name>MapPlugin</name>
+		<package>com.appbuilder.plugin.MapPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+		
+					<data>
+						<object>
+							<title>Location 1</title>
+	  						<subtitle>For this location exists website</subtitle>
+	  						<latitude>48.21350</latitude>
+							<longitude>16.36468</longitude>
+							<description>http://google.ru</description>
+						</object>
+						<object>
+							<title>Location 2</title> 
+	  						<subtitle>For this location not exists website, but enable routing</subtitle>
+							<latitude>48.21127</latitude>
+							<longitude>16.36159</longitude>
+						</object>
+						<object>
+	  						<title>Location 3</title>
+							<subtitle>For this location exists website</subtitle> 
+							<latitude>48.20907</latitude>
+							<longitude>16.36772</longitude>
+							<description>http://developer.apple.com</description>
+						</object>
+					</data>
+					
+		
+		
+					]]></data>
+	</widget>
+	<widget>
+		<order>7</order>
+		<name>EmailPlugin</name>
+		<package>com.appbuilder.plugin.EmailPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[RAW TEST DATA]]></data>
+	</widget>
+	<widget>
+		<order>8</order>
+		<name>ContactPlugin</name>
+		<package>com.appbuilder.plugin.ContactPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+				
+				<?xml version="1.0" encoding="UTF-8"?>			
+				<data>
+ 					<background>http://10.10.1.191/~developer/images/9.jpg</background>
+     				<con>
+			        	<type>0</type>
+       					<title>name</title>
+       					<description><![CDATA[html string  ]]]]><![CDATA[> </description>
+   					</con>
+   					<con>
+       					<type>1</type>
+       					<title>phone</title>
+       					<description><![CDATA[+1 123456789	]]]]><![CDATA[> </description>
+   					</con>
+   					<con>
+       					<type>2</type>
+       					<title>email</title>
+        				<description><![CDATA[mailbox1@mnailbox.com  ]]]]><![CDATA[> </description>
+   					</con>
+   					<con>
+       					<type>2</type>
+       					<title>email</title>
+        				<description><![CDATA[mailbox2@mnailbox.com  ]]]]><![CDATA[> </description>
+   					</con>
+   					<con>
+       					<type>3</type>
+       					<title>homepage</title>
+       					<description><![CDATA[http://ibuildapp.com  ]]]]><![CDATA[> </description>
+   					</con>
+   					<con>
+       					<type>4</type>
+       					<title>Object0</title>
+       					<description><![CDATA[Home  ]]]]><![CDATA[> </description>
+       					<latitude><![CDATA[14.0  ]]]]><![CDATA[> </latitude>
+       					<longitude><![CDATA[10.1  ]]]]><![CDATA[> </longitude>
+    				</con>
+				</data>
+				
+				
+				]]></data>
+	</widget>
+	<widget>
+		<order>9</order>
+		<name>TablePlugin</name>
+		<package>com.appbuilder.plugin.TablePlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+				
+				RAW TEST DATA
+				
+				
+				]]></data>
+	</widget>
+	<widget>
+		<order>10</order>
+		<name>ImagesPlugin</name>
+		<package>com.appbuilder.plugin.ImagesPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+				PGltYWdlcz4NCgk8cnNzaW1nPjwhW0NEQVRBW2h0dHA6Ly9hcGkuZmxpY2tyLmNvbS9zZXJ2aWNlcy9mZWVkcy9ncm91cHNfcG9vbC5nbmU/aWQ9NjI4NDc1NDZATjAwJmxhbmc9ZXMtdXMmZm9ybWF0PXJzc18yMDBdXT48L3Jzc2ltZz4NCjwvaW1hZ2VzPg==
+				]]></data>
+	</widget>
+	<widget>
+		<order>6</order>
+		<name>MediaPlugin</name>
+		<package>com.appbuilder.plugin.MediaPlugin</package>
+		<hash>0001</hash>
+		<url>http://google.ru</url>
+		<data><![CDATA[
+				PGltYWdlcz4NCgk8cnNzaW1nPjwhW0NEQVRBW2h0dHA6Ly9hcGkuZmxpY2tyLmNvbS9zZXJ2aWNlcy9mZWVkcy9ncm91cHNfcG9vbC5nbmU/aWQ9NjI4NDc1NDZATjAwJmxhbmc9ZXMtdXMmZm9ybWF0PXJzc18yMDBdXT48L3Jzc2ltZz4NCjwvaW1hZ2VzPg==
+				]]></data>
+	</widget>
+</app>

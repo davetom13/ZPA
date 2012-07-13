@@ -1,0 +1,479 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: dnXjhJYHxYmvXMM13FwCSa9LFUc=
+Created-By: 1.6.0_31 (Apple Inc.)
+SHA1-Digest-Manifest: nuy7r8JcoBRuF6lTi5FAdn09IMo=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: YSuvASwvSMVgSVI9vP+fi0h4rpY=
+
+Name: res/drawable/rounded_corners.xml.xml
+SHA1-Digest: RT4mkZuMuNg1p6J3vW+Zx7tK0Oc=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: PDgDHoip/6HBjLGwRLz06l35sy4=
+
+Name: res/layout/events_item.xml
+SHA1-Digest: waeLdsnV8zme2ugnuDdlwpNefu8=
+
+Name: res/layout/embedded_email_fileadadpte.xml
+SHA1-Digest: KaXrdT7a9Lvosc9W2jpfY1L4kWg=
+
+Name: res/layout/table_details.xml
+SHA1-Digest: Q0A8j0i3w/HauBNGEXXdO0LBHKo=
+
+Name: res/raw/configuration.xml
+SHA1-Digest: pz5q3CACeSx7sHnfpf2MYJMnK6g=
+
+Name: res/layout/camera_facebook_sharing.xml
+SHA1-Digest: Pi7LUuDpJkWwHUMFbpgL7ObkXJM=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: w3XnuXBmFTUdZmS5mvNEtFcAU8k=
+
+Name: res/drawable/menu_item_empty.png
+SHA1-Digest: 5bYrirA6Xpq+QcbzW6LahY+fvJo=
+
+Name: res/layout/ecommerce_item.xml
+SHA1-Digest: TfaPRf/FWL/YcTjSHQC3Xn7ppac=
+
+Name: res/drawable/embedded_email_file_icon.png
+SHA1-Digest: 2xhA7WoJbLwdGI9+jQ/VRVLf9f4=
+
+Name: res/drawable/embedded_email_add_folder.png
+SHA1-Digest: ZY2DxubhlfGcnKfQ5wWz7IXrF/Y=
+
+Name: res/layout/embedded_images_main.xml
+SHA1-Digest: RUQ5ZEAi437kPafBY76jCMAT2tA=
+
+Name: res/drawable-mdpi/ic_pulltorefresh_arrow.png
+SHA1-Digest: V1frSfHpAyB/HBF1Mcubi0CgpAg=
+
+Name: res/layout/embedded_news_post_element.xml
+SHA1-Digest: 7II1LYPjpzL19ltgOT/hVvWAmVA=
+
+Name: res/drawable/menu_bg.png
+SHA1-Digest: 6ntosx6qZVfzsPYhja+RsPGvdFw=
+
+Name: res/drawable/no_image.jpg
+SHA1-Digest: X6a5J7izq2E0OD5sZpneguiuJt0=
+
+Name: res/layout/contact_item.xml
+SHA1-Digest: ES8H3XDuOi/VLacFa6lgM8aPqQ4=
+
+Name: res/layout/gps_map_main.xml
+SHA1-Digest: H70Ed9nyT90n8T1PI8eVyQ5Pzc0=
+
+Name: com/paypal/android/utils/data/data.bin
+SHA1-Digest: IMfKqWIEzzCsfc9VJUVZwNTSNEk=
+
+Name: res/layout/feed_details.xml
+SHA1-Digest: WmfcEuNymOf3phWlt9xRTzM5D7E=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: JcYRBpxDTw62KfhVzjL0VdnKMmw=
+
+Name: res/layout/ecommerce_shipping_dialog.xml
+SHA1-Digest: bfJ8IpZsRJ/pquC3KUNOqNc2ncQ=
+
+Name: res/drawable/embedded_contact_webico.png
+SHA1-Digest: Ru5bR/wF7s+AUIbvAbArLxWKNAQ=
+
+Name: res/layout/table_row.xml
+SHA1-Digest: pW6NSQ6Sy8a3mEbmC8ylkoHIang=
+
+Name: res/layout/feed_main.xml
+SHA1-Digest: ucOrkI2pMutYxtXjzlDLyvE1oSE=
+
+Name: res/drawable/icon_notification.png
+SHA1-Digest: FKCUAgqZEper6zPOPOEBZYBEYE4=
+
+Name: res/layout/map_main.xml
+SHA1-Digest: A29OVh3u11xlJdDXcsV/lPYXkMA=
+
+Name: res/drawable/embedded_contact_emailico.png
+SHA1-Digest: vZOipf7yl2V0wvWtjtkzuQTRuWM=
+
+Name: res/drawable-hdpi/ic_pulltorefresh_arrow.png
+SHA1-Digest: zuaFNOcuY3Iv30w8+B89eLggPW0=
+
+Name: res/layout/push_notification_screen.xml
+SHA1-Digest: JKk5dqantUpdWwnS1SaSXfJi+TU=
+
+Name: res/drawable-ldpi/ic_pulltorefresh_arrow.png
+SHA1-Digest: CO+XzuvBzk+eQAeha9hwYUqug4s=
+
+Name: res/drawable/embedded_contact_phoneico.png
+SHA1-Digest: Z1ogxTos2g6Gax4lPeo3kClTwvw=
+
+Name: res/drawable/menu_item_pressed.png
+SHA1-Digest: WlUGsriw09ZtmEOjZmfPv1TZuBo=
+
+Name: res/drawable/icon_seek_thumb.png
+SHA1-Digest: 3qBOMmbjoEtjb0s+qEwm04CbbOQ=
+
+Name: res/layout/testt.xml
+SHA1-Digest: 3fBDexzrU49aOEvmqQbmdb0xgNE=
+
+Name: res/raw/camera_shot_sound.wav
+SHA1-Digest: j0vpV09FKwU3EonNrzcsJyD/Shg=
+
+Name: resources.arsc
+SHA1-Digest: 2cielOwCrWeIETqylJGM6VAfFws=
+
+Name: res/drawable/embedded_email_email_icon.png
+SHA1-Digest: n/5cQai+0cpgprh05J4qW9eioSQ=
+
+Name: res/layout/embedded_images_zoomimage.xml
+SHA1-Digest: 7DPgygaCqfzu8lMcIqMA/HndxWk=
+
+Name: res/drawable/icon_event.png
+SHA1-Digest: WaIcGJ74AxEmv7i/NtQF6zRTrmY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ChgX4f6G0fhPwfusPhyGKDy1SSQ=
+
+Name: res/layout/media_videoplayer.xml
+SHA1-Digest: /iw7oZmFIf2SCBCYq1NTt61WMT4=
+
+Name: res/layout/menu_item.xml
+SHA1-Digest: fDWnsK0lsXBYZLFgX/favrp6PnI=
+
+Name: res/layout/media_item_audio.xml
+SHA1-Digest: 10yLBi/zHfR3XMW5uUx+Z2kioXU=
+
+Name: res/layout/embedded_map_webviewer.xml
+SHA1-Digest: uc6af5L4aOBmWD1TzW+JJ+Ec9hU=
+
+Name: res/layout/camera_main.xml
+SHA1-Digest: CrKDYpExxU2KNZe9llzjYS+RXlU=
+
+Name: res/drawable/close.png
+SHA1-Digest: KT9xxVpYmAMvsVvle7QJxeCUI4Y=
+
+Name: res/drawable/embedded_contact_contactico.png
+SHA1-Digest: nwCaaLT9TXrkTqBDnJqR7QHi6T8=
+
+Name: res/drawable/twitter_reply.png
+SHA1-Digest: Hr7afZtFg1/+5COzb14VpFhjPp4=
+
+Name: res/drawable/embedded_email_folder_icon.png
+SHA1-Digest: JhRWMX9VE58nhoxXo6KpCqwFOhM=
+
+Name: res/layout/contact_main.xml
+SHA1-Digest: 6hagm0DYI4okzBdkSCcEWIQWD1s=
+
+Name: classes.dex
+SHA1-Digest: O6QDUnAVkPK3+m1IzSgmexf194Y=
+
+Name: res/drawable/embedded_contact_icon_contacts.png
+SHA1-Digest: 4gsLGZqDXO5khU4MEFA19EfylQc=
+
+Name: res/drawable/bg_twitter_top.png
+SHA1-Digest: lQW2OzXi9Uv7f9ZK+WDLwOHn82Q=
+
+Name: res/drawable/bg_feed.png
+SHA1-Digest: bbvIxGZJK6niREr5sQZ0YD1RNOE=
+
+Name: res/drawable/icon_stop.png
+SHA1-Digest: 6Yyt9wjP3KMaxHHrfTQ06AVI2g8=
+
+Name: res/layout/feed_item_image.xml
+SHA1-Digest: snKyXa1sPCUjubCEQ+TvnUuZjFo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: lEtG6AgozLhoFqgrqE8tSfaNwiI=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: GpQ/uhL8F4MYkgoe8iWpIwXfuA4=
+
+Name: res/layout/embedded_images_image_view.xml
+SHA1-Digest: OsNuP7CSWLw3JI/H1qG+aPnnM/M=
+
+Name: res/layout/images_main.xml
+SHA1-Digest: RZtUqCnGS5rxZ8W7z2lrmycq0aM=
+
+Name: res/layout/embedded_map_menu.xml
+SHA1-Digest: 6XLNypiM3Tj1fNuw+mr+365yCK4=
+
+Name: res/layout/embedded_email_fileaddadapte.xml
+SHA1-Digest: 5brHVvgP+7n8nb88jQCfILaOVCs=
+
+Name: res/drawable/no_image_text.jpg
+SHA1-Digest: UZWjsF105cMXlLDpBGB8pcoRbjk=
+
+Name: res/layout/twitter_main.xml
+SHA1-Digest: ZW6qrCdZ42aalsUyhr86JbM/1XM=
+
+Name: res/drawable/embedded_email_folder_icon1.png
+SHA1-Digest: 7OokCPDgppnjaSW1CB+VtTSFa0A=
+
+Name: res/layout/table_main.xml
+SHA1-Digest: AGtKkMvUWzpAsvhmO+py59u5nX0=
+
+Name: res/drawable/facebook_large.png
+SHA1-Digest: Ar/Eg7raSYqmOJh4Y87p+qNYicc=
+
+Name: res/drawable/media_pause.png
+SHA1-Digest: R7E3B8u3spOaGUP91oK5ijPuyWk=
+
+Name: res/layout/html_main.xml
+SHA1-Digest: GtKWWZd6yL3DZYg9e1SwJ2Lh/Qw=
+
+Name: res/drawable/map_pin_red.png
+SHA1-Digest: qfYlFO/NRVblesdIfdnYHFmF5cY=
+
+Name: res/layout/embedded_news_main.xml
+SHA1-Digest: qGmVze61Fuyvw9cd7HHn39a2teg=
+
+Name: res/drawable/twitter_check_on.png
+SHA1-Digest: BMpCtbZMD/CnuCPJnb2M+RkqsJY=
+
+Name: res/layout/temp.xml
+SHA1-Digest: pROjKDSl4nidak2cLKOafUNSLrs=
+
+Name: res/drawable/bg_twitter_bottom.png
+SHA1-Digest: KDBmfict2yZxMKO1KLa4PSgmS5M=
+
+Name: res/drawable/menu_item_bg.xml
+SHA1-Digest: wrJx448DuegzJck1GQhPgYKGqM8=
+
+Name: res/layout/media_main.xml
+SHA1-Digest: 9KdccRVFocCcDYIGYO0+cvqLpNc=
+
+Name: res/drawable/icon_image_info.png
+SHA1-Digest: oUFmek7lHO3r4ul8mvR8LOgr6jU=
+
+Name: res/drawable/html_menu_forward.png
+SHA1-Digest: e+ouHaWyKmgE7fDpVZItNHXVlwE=
+
+Name: res/drawable/twitter_check.xml
+SHA1-Digest: ygacby9DJ/MkfyfdnQxlqraJEdg=
+
+Name: res/layout/images_details.xml
+SHA1-Digest: rMNG13zMKcb9itggga5cPvgR6bk=
+
+Name: res/drawable/icon_play.png
+SHA1-Digest: PaKkEwUHRJVTWZcJZ3VSb6c7jlY=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: rr9+v/WA5K46o6Ds9O/gJZoAI7Y=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 8QP3Eab0IwbQYWc2AtOr81B4x/0=
+
+Name: res/drawable/embedded_twitter_defaultimage.png
+SHA1-Digest: WWzPRt0O3W4Rbltgx8KOIHAaU5g=
+
+Name: res/drawable/twitter_retwit.png
+SHA1-Digest: hUs91h8ezyS11yB9EZVlyke1lTA=
+
+Name: res/drawable/table_row_icon.png
+SHA1-Digest: fdjCyzRs6V1oGh9Uyy0dTvaiBvI=
+
+Name: res/drawable/take_a_picture.png
+SHA1-Digest: 4dBD1XddkykgDRxTMFj83X4UsI8=
+
+Name: res/drawable/html_menu_back.png
+SHA1-Digest: Il801JdwEK8ESurqZbJwEowEM9U=
+
+Name: res/drawable/icon_pause.png
+SHA1-Digest: 5Ap/0ujY0bUZ4IxH4x8HZBaMIao=
+
+Name: res/drawable/bg_menu.png
+SHA1-Digest: tVGHGnoAutn3p9AYvTT/DJOEF8c=
+
+Name: res/drawable/menu_gradient.xml
+SHA1-Digest: 54vMsB3K7Lsh8Z6jxBVoewmcknY=
+
+Name: res/layout/ecommerce_details.xml
+SHA1-Digest: NOinpANQS2ilYAbtzo39tM8KmPI=
+
+Name: res/layout/twitter_auth_dialog.xml
+SHA1-Digest: xXuQCS3O46/IaOtq8s0XAF7vhW4=
+
+Name: res/layout/media_audioplayer.xml
+SHA1-Digest: V2RttLw8SNb+mSWpBvkhNK2Zuzg=
+
+Name: res/drawable/menu_item_normal.png
+SHA1-Digest: whha5bHecbViPD8S/9uXEzUrF3U=
+
+Name: res/drawable/camera_panel_background.png
+SHA1-Digest: NqvsHjZfOEr1xF2pP1V7fC1rv1I=
+
+Name: res/layout/main.xml
+SHA1-Digest: lJZfrETeDAaQKDIYMD9aA5eIsaQ=
+
+Name: res/layout/embedded_news_webview.xml
+SHA1-Digest: 4ZoFFw48J8EJqrD0lIUJuyRE2Sc=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: /uCgylkuUKSJ7ATASzHRMxM/O/Y=
+
+Name: res/drawable/embedded_email_folder_back.png
+SHA1-Digest: fhZnMcaDar5VSW4LZJnKcSpoSxI=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: 8LyuH47tdzLHNDr2AaWCp5MWVz4=
+
+Name: res/drawable/bg_twitter_body.png
+SHA1-Digest: 9xMp7flyRkb8KTydRlyFmjSPzLs=
+
+Name: res/drawable/icon_prev.png
+SHA1-Digest: +0aV5oCI5b4NqxH8AnoquvQdrp0=
+
+Name: res/drawable/splash_screen.jpg
+SHA1-Digest: 1abfJ5/2ZtoPwoSmCl83hXrCHOY=
+
+Name: res/drawable/icon_notification_mask.png
+SHA1-Digest: xsO0vuplAyQiQjjgu4GOv10APJU=
+
+Name: res/drawable/twitter_check_off.png
+SHA1-Digest: ktWrwFhgLv8msO69zQzdPe+3IoI=
+
+Name: res/drawable/currentpos.png
+SHA1-Digest: BiXObWyqPk59S4fTdZYgara1yaU=
+
+Name: res/drawable/map_arrow.png
+SHA1-Digest: yH0yCDJ5xP8ASP2FGs+taIzU3Ck=
+
+Name: res/layout/embedded_email_addfile.xml
+SHA1-Digest: xorcHXZRWAHmObvgeN5d5aYXFjY=
+
+Name: res/drawable/embedded_contact_phone_icon.gif
+SHA1-Digest: 7vs8m/E8P8NZ5OinaUmhdqJyy8Y=
+
+Name: res/drawable/icon_arrow_left.png
+SHA1-Digest: bSo6LfqPqCOZUWapyjyRv8UIoTI=
+
+Name: res/layout/camera_preview.xml
+SHA1-Digest: gqpoUTDOqrxm9g3Lqke0BnCwNuA=
+
+Name: res/drawable/icon_close.png
+SHA1-Digest: cU3nBWFZ0Tu4yPxu0KlOvn3svVM=
+
+Name: res/layout/embedded_news_discription.xml
+SHA1-Digest: AsP/kbItkipfUrw/sNKPoUqFQgU=
+
+Name: res/layout/embedded_email_fileadd.xml
+SHA1-Digest: QcmuwEov9LYbkeEqIjyNT2nUj4g=
+
+Name: res/drawable/embedded_contact_carico.png
+SHA1-Digest: yz77q6+KQ7a4U7edD0RNFvutFwU=
+
+Name: res/layout/map_route.xml
+SHA1-Digest: CXqMOn89kNjJxuYSS0wwVaKf17M=
+
+Name: res/layout/feed_item.xml
+SHA1-Digest: DyjJSGSUPeZ934mMiWQUjbYE91A=
+
+Name: res/layout/embedded_images_description.xml
+SHA1-Digest: qtj5b2/dDMUn6yQph09kKOIRes4=
+
+Name: res/drawable/image_info.png
+SHA1-Digest: Z0zJ2LfZgFEyHje5RaqBxkFrHU8=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: oRLJkdOS/FW071Z70qRwE2vYe3U=
+
+Name: res/layout/ecommerce_buy.xml
+SHA1-Digest: cig2ZHz+CfQ6bn5J5+UhHFOXQzY=
+
+Name: res/layout/gps_text.xml
+SHA1-Digest: LxUqpi5p99y0/gCY4cqxhqnToRA=
+
+Name: res/drawable/embedded_email_skrepka.png
+SHA1-Digest: 4kBRML74R+rTIviaLgWHk2NddDk=
+
+Name: res/layout/custom_form_main.xml
+SHA1-Digest: HmEYqv2CfLelBIifxwbUM4Z1TCQ=
+
+Name: res/layout/embedded_email_main.xml
+SHA1-Digest: RHZ7T7lT7lpl5gWWbEpny4oikDU=
+
+Name: res/drawable/embedded_contact_home_web.png
+SHA1-Digest: 5iIApW4Al4ZxyQk/cgkTtMkiq1c=
+
+Name: res/layout/twitter_post_element.xml
+SHA1-Digest: On1x51JRKcu1I1xy7pw19R5EAFc=
+
+Name: res/layout/embedded_table_cover.xml
+SHA1-Digest: nCddjnvkAbX3IGQ6g3tPQpwgAP0=
+
+Name: res/drawable/marker.png
+SHA1-Digest: x0UXqUeqh7JOn7uSf7depm0PfGA=
+
+Name: res/layout/embedded_call_main.xml
+SHA1-Digest: PGeGasMqzhLzXw+25E4/89cM95w=
+
+Name: res/drawable/media_play.png
+SHA1-Digest: wvHOMUWOQUwzhf7xCNrSWpiuE7w=
+
+Name: res/drawable/icon_download.png
+SHA1-Digest: 5ykFuFIEl2S+ij/VhXRvsFUE4Jg=
+
+Name: res/layout/twitter_input_dialog.xml
+SHA1-Digest: SN6t921/rWNs1uoZ7fEcfPzfj7c=
+
+Name: res/drawable/embedded_contact_mapico.png
+SHA1-Digest: hCVTiV9ZCOcto8C48zTIiz96VHo=
+
+Name: res/layout/embedded_news_post_element_no_img.xml
+SHA1-Digest: iHpRQhO5M9oPLJmleZs4WxFKg3U=
+
+Name: res/drawable/twitter_icon.png
+SHA1-Digest: YyQNbaQUPBamfpYlZLLmWZV4T30=
+
+Name: com/paypal/android/utils/data/locale.bin
+SHA1-Digest: dkJVvYyZ1NEaxLHBa4QaO8sfBXY=
+
+Name: res/drawable/twitter_in_reply_to.png
+SHA1-Digest: YswiEmIkfZhYsQpUZ6xEJfMa/7s=
+
+Name: res/layout/wait.xml
+SHA1-Digest: c+QpcjxAdZLrl5lSnGAiCIDaTbY=
+
+Name: res/raw/sample.xml
+SHA1-Digest: RhLW/u9ST9lm9kjozSlnufog5w8=
+
+Name: res/drawable/media_video_default.gif
+SHA1-Digest: KnhJ63UFhTJfsgrA0TX/Q6ym53s=
+
+Name: res/drawable/icon_seek_bar.png
+SHA1-Digest: hJbkNs8oU1LSzQb1bRDK4FuxDlg=
+
+Name: res/layout/twitter_details.xml
+SHA1-Digest: +9fP1MWraxl7XLvMQ0uZarKGzuE=
+
+Name: res/drawable/map_pin_blue.png
+SHA1-Digest: LYA0n5eefoKF0yshqdL2pE36hng=
+
+Name: res/layout/ecommerce_main.xml
+SHA1-Digest: aAOuyDjA8yg+4f/OKtIIPRb5668=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: HsnTZz4MVk/Xyi5uF3BNaLcKl7c=
+
+Name: res/drawable/icon_next.png
+SHA1-Digest: HG4QMMeLhJTjNcXXeBJnU6rfuC0=
+
+Name: res/layout/embedded_email_delfile.xml
+SHA1-Digest: dLW3UE46AcdH2mXqAt7SBNS/Ebg=
+
+Name: res/drawable/map_pin_shadow.png
+SHA1-Digest: E4UEI3vRZHyIeqq74EWTo0oYXcE=
+
+Name: res/drawable/icon_arrow_right.png
+SHA1-Digest: CvJK+kbEOiKTVjoB50In1CpM4sk=
+
+Name: res/layout/embedded_map_main.xml
+SHA1-Digest: RHs2/7+5ZisH/GDvDOI8n23LQlk=
+
+Name: res/drawable/html_menu_refresh.png
+SHA1-Digest: 2Fsb6XM7Am8RS2HjLyHM62eUkWs=
+
+Name: res/layout/media_item_video.xml
+SHA1-Digest: 0VkQuDP2BWnqQaPNd2q1Ns40FW4=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: h0A2CWkHkq+bjDomWzAFSOUVl5U=
+
